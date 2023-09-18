@@ -1,0 +1,55 @@
+State,Quarter,Rate,Quarter_Num,IsTreatmentGroup,AfterTreatment,IsTreatment
+Alaska,Q22011,0.77,3,0,0,0
+Alaska,Q32011,0.78,4,0,1,0
+Arizona,Q22011,0.2261,3,0,0,0
+Arizona,Q32011,0.2503,4,0,1,0
+California,Q22011,0.2743,3,1,0,0
+California,Q32011,0.2636,4,1,1,1
+Colorado,Q22011,0.6736,3,0,0,0
+Colorado,Q32011,0.6715000000000001,4,0,1,0
+Connecticut,Q22011,0.3952,3,0,0,0
+Connecticut,Q32011,0.4031,4,0,1,0
+District of Columbia,Q22011,0.2951,3,0,0,0
+District of Columbia,Q32011,0.4024,4,0,1,0
+Florida,Q22011,0.3947,3,0,0,0
+Florida,Q32011,0.4181,4,0,1,0
+Hawaii,Q22011,0.4271,3,0,0,0
+Hawaii,Q32011,0.4294,4,0,1,0
+Louisiana,Q22011,0.5619,3,0,0,0
+Louisiana,Q32011,0.5949,4,0,1,0
+Maryland,Q22011,0.4679,3,0,0,0
+Maryland,Q32011,0.4589999999999999,4,0,1,0
+Michigan,Q22011,0.1923,3,0,0,0
+Michigan,Q32011,0.2460999999999999,4,0,1,0
+Minnesota,Q22011,0.5202,3,0,0,0
+Minnesota,Q32011,0.5246,4,0,1,0
+Missouri,Q22011,0.4063,3,0,0,0
+Missouri,Q32011,0.4089,4,0,1,0
+Montana,Q22011,0.6578,3,0,0,0
+Montana,Q32011,0.6683,4,0,1,0
+Nebraska,Q22011,0.436,3,0,0,0
+Nebraska,Q32011,0.4404999999999999,4,0,1,0
+New Hampshire,Q22011,0.5643,3,0,0,0
+New Hampshire,Q32011,0.5334,4,0,1,0
+New Jersey,Q22011,0.3039,3,0,0,0
+New Jersey,Q32011,0.3109,4,0,1,0
+New York,Q22011,0.1314,3,0,0,0
+New York,Q32011,0.1451,4,0,1,0
+North Carolina,Q22011,0.532,3,0,0,0
+North Carolina,Q32011,0.534,4,0,1,0
+Ohio,Q22011,0.5700999999999999,3,0,0,0
+Ohio,Q32011,0.5700999999999999,4,0,1,0
+Pennsylvania,Q22011,0.4553,3,0,0,0
+Pennsylvania,Q32011,0.4559,4,0,1,0
+South Carolina,Q22011,0.2556,3,0,0,0
+South Carolina,Q32011,0.2641,4,0,1,0
+Tennessee,Q22011,0.3382,3,0,0,0
+Tennessee,Q32011,0.3428,4,0,1,0
+Virginia,Q22011,0.3455,3,0,0,0
+Virginia,Q32011,0.359,4,0,1,0
+Washington,Q22011,0.5882000000000001,3,0,0,0
+Washington,Q32011,0.5846,4,0,1,0
+Wisconsin,Q22011,0.5720000000000001,3,0,0,0
+Wisconsin,Q32011,0.5688,4,0,1,0
+Wyoming,Q22011,0.5937,3,0,0,0
+Wyoming,Q32011,0.5911,4,0,1,0
