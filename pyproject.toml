@@ -14,6 +14,8 @@ statsmodels = "^0.13.2"
 seaborn = "^0.12.2"
 jupyterlab = "^4.0.6"
 ipython = "8.0.1"
+linearmodels = "^4.0.0"
+tqdm = "^4.66.1"
 
 [tool.poetry.dev-dependencies]
 
