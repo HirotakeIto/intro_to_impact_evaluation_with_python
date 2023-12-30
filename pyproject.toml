@@ -6,7 +6,7 @@ authors = ["Hirotake Ito <ito_hirotake@cyberagent.co.jp>"]
 
 [tool.poetry.dependencies]
 python = "3.8.5"
-pandas = "^1.4.1"
+pandas = ">=2.00"
 numpy = "^1.22.2"
 scipy = "^1.8.0"
 matplotlib = "^3.5.1"
@@ -16,6 +16,9 @@ jupyterlab = "^4.0.6"
 ipython = "8.0.1"
 linearmodels = "^4.0.0"
 tqdm = "^4.66.1"
+scikit-learn = "^1.3.2"
+rdrobust = "^1.2.1"
+rddensity = "^2.4.1"
 
 [tool.poetry.dev-dependencies]
 
