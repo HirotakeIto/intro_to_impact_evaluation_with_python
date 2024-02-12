@@ -5,9 +5,25 @@
 
 ## アップデート情報
 
-# プログラム
+## コードおよび環境
+### コード
 
-プログラムの解説は本書籍をご覧ください。
+コードの解説は本書籍をご覧ください。
+### 環境
+このプロジェクトは以下の環境で動作確認を行っています。
+- Python 3.8.5
+- pandas >= 2.00
+- numpy 1.22.2
+- scipy 1.8.0
+- matplotlib 3.5.1
+- statsmodels 0.14.1
+- seaborn 0.12.2
+- jupyterlab 4.0.6
+- ipython 8.0.1
+- linearmodels 4.0.0
+- tqdm 4.66.1
+- rdrobust 1.2.1
+- rddensity 2.4.1
 
 # データ
 
