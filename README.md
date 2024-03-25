@@ -27,6 +27,9 @@
 
 # データ
 
+* [lentaデータセット](https://www.uplift-modeling.com/en/latest/api/datasets/fetch_lenta.html）)
+* [臓器提供登録率データセット](https://www.openicpsr.org/openicpsr/project/112543/version/V1/view?path=/openicpsr/112543/fcr:versions/V1/Data-and-Programs-to-be-Posted-Online-&type=folder)
+
 # よくある質問
 **Q**：書籍中で使われているコードと本レポジトリで使われているコードに微妙な差があります。
 
