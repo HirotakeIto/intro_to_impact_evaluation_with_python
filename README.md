@@ -31,6 +31,7 @@ TBA
   - chapter3_abtest_detail.ipynb: 書籍の第3章で解説した分析に対応します。
   - chapter4_did.ipynb: 書籍の第4章で解説した分析に対応します。
   - chapter5_rdd.ipynb: 書籍の第5章で解説した分析に対応します。
+  - colab.ipynb: Google Colaboratory(Colab)の使い方について説明をしています。
 - pyproject.toml: プロジェクトの依存関係を管理するための設定ファイルです。
 - poetry.lock: プロジェクトの依存関係のバージョンを固定するためのロックファイルです。
 </details>
