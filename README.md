@@ -1,6 +1,7 @@
-# 『Pythonで学ぶ効果検証入門』ソースコード＆データ配布とサポートページ
+# 『Pythonで学ぶ効果検証入門』サポートページ
 
 本リポジトリは、オーム社から発売中の『[pythonで学ぶ効果検証入門](hogehoge)』のサポートのためのページです。
+ソースコードやデータの配布を行っています。
 
 
 ## アップデート情報
@@ -8,9 +9,7 @@ TBA
 
 ## ファイルやコード、環境について
 ### ファイルおよびコードについて
-書籍で用いるデータおよびコードの配布を行っております。
-
-これらの各種データおよびコードの解説は書籍をご覧ください。
+書籍で用いたデータおよびコードを下記の通り配布を行っております。
 
 <details>
 <summary>ファイル一覧</summary>
@@ -35,6 +34,11 @@ TBA
 - poetry.lock: プロジェクトの依存関係のバージョンを固定するためのロックファイルです。
 </details>
 
+これらの各種データおよびコードの解説は書籍をご覧ください。
+
+## Colabの利用について
+本書ではPythonの環境として、Colabを推奨しています。
+その使用方法について本レポジトリの[Colab.ipynb](https://github.com/HirotakeIto/intro_to_impact_evaluation_with_python/blob/main/notebooks/Colab.ipynb)にて解説を行っていますので、必要な方はご参照ください。
 
 
 ### 環境
@@ -58,9 +62,9 @@ TBA
 * [lentaデータセット](https://www.uplift-modeling.com/en/latest/api/datasets/fetch_lenta.html）)
   * 本書では、[skliftライブラリ](https://www.uplift-modeling.com/)によって提供されているLenta データセットを使用しました。
   * このデータセットは、ロシアのスーパーマーケットチェーン Lenta の顧客行動データを含んでおり、アップリフトモデリングの研究に広く利用されています。
-* [臓器提供登録率データセット](https://www.openicpsr.org/openicpsr/project/112543/version/V1/view?path=/openicpsr/112543/fcr:versions/V1/Data-and-Programs-to-be-Posted-Online-&type=folder)
+* [臓器提供登録率データセット](https://github.com/NickCH-K/causaldata/tree/main/Python/causaldata/organ_donations)
   * 本書では、次の論文で用いられている臓器提供登録率についてのデータセットを使用しました。
-      * [Kessler, Judd B, and Alvin E Roth. "Organ Allocation Policy and the Decision to Donate." American Economic Review 102, no. 5 (August 2012): 2018–47.](https://doi.org/10.1257/aer.102.5.2018).
+      * [Kessler, J.B. and Roth, A.E., 2014. Don't take 'no' for an answer: An experiment with actual organ donor registrations. National Bureau of Economic Research working paper No. 20378.](https://www.nber.org/papers/w20378).
   * またそのデータダウンロードにあたっては[causaldataライブラリ](https://github.com/NickCH-K/causaldata)を利用しています。
 
 # よくある質問
