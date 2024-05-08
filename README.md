@@ -36,7 +36,7 @@ TBA
 
 これらの各種データおよびコードの解説は書籍をご覧ください。
 
-## Colabの利用について
+### Colabの利用について
 本書ではPythonの環境として、Colabを推奨しています。
 その使用方法について本レポジトリの[Colab.ipynb](https://github.com/HirotakeIto/intro_to_impact_evaluation_with_python/blob/main/notebooks/Colab.ipynb)にて解説を行っていますので、必要な方はご参照ください。
 
