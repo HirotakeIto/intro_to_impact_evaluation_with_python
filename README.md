@@ -60,13 +60,15 @@ TBA
 
 # 本書で使用させていただいたデータセット
 
-* [lentaデータセット](https://www.uplift-modeling.com/en/latest/api/datasets/fetch_lenta.html）)
+* [lentaデータセット](https://www.uplift-modeling.com/en/latest/api/datasets/fetch_lenta.html)
   * 本書では、[skliftライブラリ](https://www.uplift-modeling.com/)によって提供されているLenta データセットを使用しました。
   * このデータセットは、ロシアのスーパーマーケットチェーン Lenta の顧客行動データを含んでおり、アップリフトモデリングの研究に広く利用されています。
+    * [ライセンス表記ページ](https://github.com/maks-sh/scikit-uplift/blob/master/LICENSE)
 * [臓器提供登録率データセット](https://github.com/NickCH-K/causaldata/tree/main/Python/causaldata/organ_donations)
   * 本書では、次の論文で用いられている臓器提供登録率についてのデータセットを使用しました。
       * [Kessler, J.B. and Roth, A.E., 2014. Don't take 'no' for an answer: An experiment with actual organ donor registrations. National Bureau of Economic Research working paper No. 20378.](https://www.nber.org/papers/w20378).
   * またそのデータダウンロードにあたっては[causaldataライブラリ](https://github.com/NickCH-K/causaldata)を利用しています。
+    * [ライセンス表記ページ](https://github.com/NickCH-K/causaldata/blob/main/Python/setup.py)
 
 # よくある質問
 **Q**：書籍中で使われているコードと本レポジトリで使われているコードに微妙な差があります。
