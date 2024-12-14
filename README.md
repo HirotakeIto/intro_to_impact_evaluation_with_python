@@ -1,11 +1,11 @@
 # 『Pythonで学ぶ効果検証入門』サポートページ
 
-本リポジトリは、オーム社から発売中の『[pythonで学ぶ効果検証入門](hogehoge)』のサポートのためのページです。
+本リポジトリは、オーム社から発売中の『[pythonで学ぶ効果検証入門](https://www.ohmsha.co.jp/book/9784274231162/)』のサポートのためのページです。
 ソースコードやデータの配布を行っています。
 
 
 ## アップデート情報
-TBA
+- 2024/12/14: [正誤表](https://github.com/HirotakeIto/intro_to_impact_evaluation_with_python/blob/main/eratta.md)を追加しました。
 
 ## ファイルやコード、環境について
 ### ファイルおよびコードについて
@@ -74,3 +74,6 @@ TBA
 **Q**：書籍中で使われているコードと本レポジトリで使われているコードに微妙な差があります。
 
 **A**：書籍で示したコードは分かりやすさを重視し、一部実際に実行しているコードと異なる表記をしているところがあります。一方でそれは処理結果に影響を与えるようなものではないため、本レポジトリのコードを正例として利用いただければ幸いです。
+
+# 正誤表
+- https://github.com/HirotakeIto/intro_to_impact_evaluation_with_python/blob/main/eratta.md
